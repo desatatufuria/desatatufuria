@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @desatatufuria
-- 👀 I’m interested in Python, Javascript, Php, Kotlin
+- 👀 I’m interested in c#, backend, Php, Kotlin, angular,react
 - 🌱 I’m currently learning Maching Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
